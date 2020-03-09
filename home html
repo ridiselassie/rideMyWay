@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ridify: transport made easy </title>
+    <link rel="stylesheet" href="homeStyle.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <ul>
+                <li><a href="" class="left-float" id="ridify">Ridify</a></li>
+                <li><a href="" class="left-float">Home</a></li>
+                <li><a href="" class="left-float">Sign Up</a></li>
+                <li><a href="" class="left-float">Login</a></li>
+                <li><a href="" class="right-float">View Offers</a></li>&nbsp&nbsp&nbsp&nbsp
+                <li><a href="" class="right-float">About Us</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <section class='' id="rect">
+        <ul>
+            <li><a href="">View Available Offers</a></li>
+            <li><a href="">Get Coupon</a></li>
+            <li><a href="">Hot Deals</a></li>
+            <li><a href="">Promo</a></li>
+            <li><a href="">Order</a></li>
+            <li><a href="">Earn</a></li>
+            <li><a href="">Lite</a></li>
+            <li ><a href="" class="right">Help ?</a></li>
+        </ul>
+    </section>
+
+    <div class=''  id="box-container">
+
+        <div id="box-1">
+
+             <h1 class='flex-head' >SIGN UP TO RIDE</h1> 
+
+            <div class="form-div">
+
+                <form action="" method="POST">
+
+                   
+
+                        <label for="name">Full Name:</label>
+                        <input type="name" id="name" name="" placeholder="Enter your full name" value=""><br><br><br>
+
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="" placeholder="Enter your email" value=""><br><br><br>
+
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" name="" placeholder="Enter a password" value=""><br><br><br>
+
+                        <label for="password2">Confirm Password:</label>
+                        <input type="password" id="password2" name="" placeholder="Confirm your password" value=""><br><br><br>
+
+                        <label for="location">Location:</label>
+                        <input type="text" id="location" name="" placeholder="Enter your precise location" value=""><br><br><br>
+
+                        <input type="submit"  value="Sign Up">
+
+               
+
+                </form>
+
+            </div>
+
+        </div>
+
+        <div id="box-2">
+            <h1 class='flex-head' >LOGIN TO RIDE</h1> 
+
+            <div class="form-div">
+
+                <form action="" method="POST">
+
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="" placeholder="Enter your email" value=""><br><br><br>
+
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" name="" placeholder="Enter a password" value=""><br><br><br>
+
+                        <input type="submit"  value="Login">
+
+                </form>
+
+            </div>
+
+        </div>
+
+            <div id="box-3">
+                <h1><a href="">REGISTER TO DRIVE ></a>&nbsp;&nbsp;&nbsp; <a href="">LOGIN TO DRIVE ></a></h1>
+            </div>
+    </div>
+
+    <div id="safety">
+        
+            <h1>Safety Guide & Precautions</h1>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis id, praesentium soluta reprehenderit amet culpa ipsum, cum hic numquam, ratione quisquam quod eligendi temporibus quia quas libero et accusamus optio!
+            Aliquid deleniti omnis et sunt accusantium ullam distinctio quo iure, impedit voluptas suscipit beatae rem repellat eaque quaerat aspernatur obcaecati quia ex. Maxime minima magni natus, quos assumenda fuga quam!
+            Facere repellendus vitae dicta quia harum distinctio sunt exercitationem excepturi, laborum odit eveniet laudantium reiciendis numquam cum aut praesentium commodi doloremque vel, debitis quas beatae sapiente repellat sed. Est, tenetur!
+            Consectetur error ipsum ad necessitatibus ducimus eius non aperiam earum nesciunt praesentium vitae id, nisi tempore quia animi sequi repellendus? Debitis hic commodi magni corporis impedit, repellat modi voluptatem iure <a href="">Read More</a>.
+            </p>
+        
+    </div>
+
+    <footer>
+        <ul>
+            <li><a href="">&copy;2020 Ridify Tech Ltd</a></li>
+            <li><a href="" class="footer-right">Privacy</a></li>
+            <li><a href="" class="footer-right">Terms</a></li>
+            <li><a href="" class="footer-socials">twitter</a></li>
+            <li><a href="" class="footer-socials">facebook</a></li>
+            <li><a href="" class="footer-socials">About Ridify</a></li>
+        </ul>
+    </footer>
+    
+</body>
+</html>
